@@ -1,3 +1,3 @@
 <%
-response.write("This is some text from an external ASP file.")
+response.write("This is sme text from an external ASP file.")
 %>

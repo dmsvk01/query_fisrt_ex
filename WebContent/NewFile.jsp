@@ -13,10 +13,10 @@
                 $("#div1").load("./txt/demo_test.txt");
             });
         });
-
+ 
         
         $(document).ready(function(){
-
+ 
                    $("#btn2").click(function(){
                 $("#div1").load("./txt/demo_test.txt #p1");
             });
